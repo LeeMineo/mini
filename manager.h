@@ -20,4 +20,4 @@ void saveData(Menu *m, int count); //파일저장
 int loadData(Menu *s); //데이터 불러옴
 int selectMenu(); // 메뉴판 프린트
 int selectDataNo(Menu *s, int count);//번호가 맞는지 확인
-void searchName(Menu *s, int count);// 이름검색
+void searchName(Menu *s, int count);// 이름 검색
