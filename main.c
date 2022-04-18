@@ -69,6 +69,6 @@ int main(void){
             searchName(slist, index);
         }
     }
-    printf("종료됨!\n");
+    printf("종료되었습니다.!\n");
     return 0;
 }
